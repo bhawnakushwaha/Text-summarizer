@@ -1,0 +1,36 @@
+# Virtual Environment
+env/
+venv/
+.venv/
+
+saved_summary_model/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build files
+build/
+dist/
+
+# HuggingFace / Torch cache
+.cache/
+*.bin
