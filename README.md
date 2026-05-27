@@ -97,8 +97,8 @@ uvicorn app:app --reload
 ---
 
 ## 📸 Screenshots
+<img width="800" height="850" alt="Screenshot (424)" src="https://github.com/user-attachments/assets/cb3ad82c-9282-4253-80f9-778fad7d0b17" />
 
-_Add screenshots here later._
 
 ---
 
